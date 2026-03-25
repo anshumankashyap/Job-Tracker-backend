@@ -57,3 +57,7 @@ python manage.py runserver
 
 ## Deployment
 Deployed on Railway with PostgreSQL. See `Procfile` and `railway.json`.
+
+## Related
+- **Frontend:** [job-tracker-frontend](https://github.com/anshumankashyap/Job-Tracker-frontend)
+- **Live Demo:** [https://job-tracker-frontend.vercel.app](https://job-tracker-frontend.vercel.app)
